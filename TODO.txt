@@ -1,0 +1,26 @@
+TODO items
+1- Slide shows
+2- Menues Routes
+3- Theme files
+4- Calandar with services, date time picker
+5- Grid - scalable, services
+6- File Manager
+7- Responsive options
+8- Drop Down , Accordian , Tabs, Tree, Lists, Sliders
+9- Layouts
+10- Graph D3 , highcharts
+11- 2x Retina
+12- GMAP, Googledocs, Gdrive
+13- Tips(tools tips , bubble tips ... )
+14- Captcha
+15- Forms - 
+16- Text editors
+17- Galleries, Crousal
+18- paginations, lazy load, scroll
+19- Drag m Drop
+20- Modals - popup, alert messages
+22- Keyboard navigation, 
+23- Desktop App
+24- feeds
+25- social media
+26- Login , Authentication
